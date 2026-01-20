@@ -1,0 +1,12 @@
+Primer Design Table – Primer Pair 3
+
+| Parameter                   | Forward Primer              | Reverse Primer               |
+|----------------------------|----------------------------|-----------------------------|
+| Sequence (5’ → 3’)         | GAAGAGCTACGAGCTGCTG         | CAGTCTCCACTCACCCAGGA        |
+| Length (bp)                | 20                         | 20                          |
+| Tm (°C)                    | 60.53                      | 60.54                       |
+| GC %                       | 60 %                       | 60 %                        |
+| Self-complementarity       | 6.00                       | 3.00                        |
+| 3′ Self-complementarity    | 2.00                       | 1.00                        |
+
+Expected PCR Product Length: 106 bp
